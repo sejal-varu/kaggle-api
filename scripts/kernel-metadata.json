@@ -1,0 +1,1 @@
+{"id": "sejalvaru/kernel_sejal_testing", "title": "KERNEL_sejal_testing", "code_file": "first.py", "language": "python", "kernel_type": "script", "is_private": "true", "enable_gpu": "false", "enable_internet": "false", "dataset_sources": ["sejalvaru/sejal_testing"], "competition_sources": [], "kernel_sources": []}
